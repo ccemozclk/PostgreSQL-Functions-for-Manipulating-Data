@@ -1,7 +1,7 @@
 # 🐘 Advanced SQL Toolbox: PostgreSQL Functional Mastery on Northwind DB
 
 This project is built as a follow-up to the [Functions for Manipulating Data in PostgreSQL](https://www.datacamp.com/) course on DataCamp.  
-It demonstrates advanced PostgreSQL techniques across four functional areas—each explored with **five unique queries** using the classic **Northwind database** in **PgAdmin 4**.
+It demonstrates advanced PostgreSQL techniques across four functional areas—each explored with **five unique queries** using the classic **Northwind database** .
 
 ---
 
