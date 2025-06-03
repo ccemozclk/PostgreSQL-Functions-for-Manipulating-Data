@@ -67,7 +67,6 @@ postgresql-northwind-functional-project/
 ## 🔧 Tools Used
 
 - **PostgreSQL** 14+
-- **PgAdmin 4**
 - **DataCamp** (Course Provider)
 - **Northwind DB** for PostgreSQL
 
