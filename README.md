@@ -79,11 +79,6 @@ Screenshots of query results and visual outputs are included in the `/screenshot
 
 ---
 
-## 🔗 Certificate
-
-You can view my official course certificate from DataCamp [here](#). *(Insert your certificate link)*
-
----
 
 ## 📬 Contact
 
